@@ -3,7 +3,7 @@
 ##
 
 > ### 💬🏷️About Me💬
->* 🎇✨✨🔭 I’m completed intership in Logic Systech Private Limited✨✨✨✨
+>* 🎇✨✨🔭 I’m completed internship in Logic Systech Private Limited✨✨✨✨
 >* 🌱 I’m currently learning new technologies in AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
