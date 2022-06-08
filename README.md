@@ -1,9 +1,9 @@
 # Hello, I'm PRIYANKA MORE!! In 
-### DevOps Engineer 💻
+### Cloud Engineer 💻
 ##
 
 > ### 💬🏷️About Me💬
->* 🎇✨✨🔭 I’m completed internship in Logic Systech Private Limited✨✨✨✨
+>* 🎇✨✨🔭 I’m Currently working  in Rapyder Cloud Solutions✨✨✨✨
 >* 🌱 I’m currently learning new technologies in AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
